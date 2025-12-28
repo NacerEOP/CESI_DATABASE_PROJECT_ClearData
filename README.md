@@ -1,6 +1,6 @@
 # CESI_DATABASE_PROJECT_ClearData
 Le ministère de la Transition Écologique souhaite centraliser les données sur la qualité de l’air actuellement dispersées dans les agences régionales. L’entreprise ClearData est missionnée pour concevoir une base de données relationnelle
-<img width="336" height="324" alt="ClearDATALogo" src="https://github.com/user-attachments/assets/b56d3b69-d3fc-4ae7-bb68-2a45b89395e4" />
+<img width="336" height="324" align="center" alt="ClearDATALogo" src="https://github.com/user-attachments/assets/b56d3b69-d3fc-4ae7-bb68-2a45b89395e4" />
 
 Ce projet, intitulé Données et modélisation, avait pour objectif de concevoir et réaliser une base de données relationnelle complète répondant à un besoin réel exprimé par un client institutionnel. À partir d’un cahier des charges issu d’interviews non techniques, le travail consistait à analyser, clarifier et structurer les besoins afin de proposer une solution fiable, cohérente et démontrable. Le contexte du projet portait sur la création d’un outil centralisé permettant de stocker, gérer et interroger des données publiques relatives à la qualité de l’air dans les grandes villes françaises, pour le compte du ministère de la Transition écologique.
 
