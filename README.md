@@ -2,7 +2,11 @@
 Le ministère de la Transition Écologique souhaite centraliser les données sur la qualité de l’air actuellement dispersées dans les agences régionales. L’entreprise ClearData est missionnée pour concevoir une base de données relationnelle
 <img width="336" height="324" alt="ClearDATALogo" src="https://github.com/user-attachments/assets/b56d3b69-d3fc-4ae7-bb68-2a45b89395e4" />
 
+Logiciel Qt:
+<img width="1914" height="1023" alt="image" src="https://github.com/user-attachments/assets/30fd26d1-41d1-46f6-bd50-8d53017ddbe2" />
+
 Ce projet, intitulé Données et modélisation, avait pour objectif de concevoir et réaliser une base de données relationnelle complète répondant à un besoin réel exprimé par un client institutionnel. À partir d’un cahier des charges issu d’interviews non techniques, le travail consistait à analyser, clarifier et structurer les besoins afin de proposer une solution fiable, cohérente et démontrable. Le contexte du projet portait sur la création d’un outil centralisé permettant de stocker, gérer et interroger des données publiques relatives à la qualité de l’air dans les grandes villes françaises, pour le compte du ministère de la Transition écologique.
+<img width="4738" height="1366" alt="Software1" src="https://github.com/user-attachments/assets/cd6c77d7-1cda-40ea-8df4-4d4cf411fc5a" />
 
 Le projet était structuré en plusieurs phases. Une première phase était dédiée à la compréhension du besoin client, à la reformulation des exigences, à l’organisation du travail en équipe et à la planification du projet. La phase de conception consistait à élaborer un modèle de données rigoureux en respectant les principes de la modélisation relationnelle, notamment la troisième forme normale, tout en tenant compte des contraintes fonctionnelles, techniques, juridiques et organisationnelles. Cela incluait la gestion des agences régionales, du personnel (chefs d’agence, agents techniques et administratifs), des capteurs de mesure, des données de concentration de gaz et des rapports d’analyse, avec des règles strictes sur la modification, la suppression et la confidentialité des données.
 
